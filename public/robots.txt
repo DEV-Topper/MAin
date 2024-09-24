@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coin-x.online/sitemap.xml
